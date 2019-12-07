@@ -1,6 +1,6 @@
 # UniNet
 
-UniNet is a social network, rather than a neureal network.
+UniNet is a social network, rather than a neural network.
 
 Focus: Computer Vision, Deep Learning and Robotics.
 
