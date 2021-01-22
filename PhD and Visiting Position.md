@@ -1,35 +1,40 @@
-1.
-发贴人： 刘宇
-坐标： 澳洲，阿德莱德
-单位：阿德莱德大学，计算视觉视觉（学科排名全球top3)
-Dr. Lingqiao Liu is a Senior Lecturer and ARC DECRA Fellow in School of Computer Science, University of Adelaide, Australia. He obtained his P.h.D. from the Australian National University in 2014. He is a recipient of ARC DECRA (Discovery Early Career Researcher Award) award in 2016 and the University of Adelaide Research Fellowship award in 2016.  He has a broad research interest in machine learning, computer vision, natural language processing and music information processing.
-招生： I am continuously looking for highly motivated students with strong background in Computer Science/Engineering/Mathematics.
-个人主页：https://sites.google.com/site/lingqiaoliu83/
-
-发帖人： 庄博涵
-坐标：澳洲，阿德莱地
-帮打个招PHD的广告。需要computer science背景，不走CSC，项目给全额奖学金，明年第一学期开始，Markus Wagner 是主导。有兴趣还可以拿和交大的joint phd，不感兴趣只拿我们阿大学位。https://cs.adelaide.edu.au/users/markus/
 
 
-2.
-发贴人： 刘宇
-坐标： 澳洲，阿德莱德
-单位：阿德莱德大学，计算机学院
-I am a Lecturer in the School of Computer Science, University of Adelaide. My research areas are algorithmic game theory and multiagent systems. Prior to joining the University of Adelaide, I was a Lecturer in the Economics and Computation group at the University of Liverpool, UK.
-招生： I am actively looking for PhD students.
-个人主页： https://cs.adelaide.edu.au/~mingyu/
 
 
-3.
-发贴人： 刘宇
-坐标： 英国，利物浦
-单位：利物浦大学，工程学院（全英第一）
-Thanh-Toan Do is currently a Lecturer (Assistant Professor) at the Department of Computer Science, University of Liverpool, UK. In 2012, he obtained Ph.D. in Computer Science at INRIA, Rennes, France, under supervision of Professors Laurent Amsaleg, Ewa Kijak, and Teddy Furon. From 2013-2016, he was a Research Fellow with Professor Ngai-Man Cheung at Singapore University of Technology and Design. From 2016-2018, he was a Research Fellow with Professor Ian Reid at Australian Centre for Robotic Vision (ACRV) and the University of Adelaide. His research interests include Computer Vision, e.g., Robotic Vision, Visual Search, Visual Question Answering, and Machine Learning, e.g., Deep Learning, Metric Learning. 
 
-招生：Potential applicants who are interested in my research areas are welcome to join my group. Self-funded PhD students and Master students are welcome. The candidates can also check this link for postgraduate research scholarships at the University of Liverpool, including country specific scholarships like Liverpool-CSC scholarships. Please feel free to contact me (thanh-toan.do@liverpool.ac.uk) for more details.
 
-个人主页： https://sites.google.com/view/thanhtoando/home
 
+
+
+
+
+
+
+
+6. 
+发帖人： 庞观松
+坐标： 中国，深圳
+You are invited to attend a seminar given by professor Xin Yao from Southern University of Science and Technology, China (SUSTech) on Wednesday, 4th December, at 10:00 AM - 11:00 AM in Seminar Room 5.57, Level 5, Ingkarni Wardli.
+
+Title: What Does the Newest Computer Science Department in China Look Like?
+
+Speaker: Professor Xin Yao
+
+Abstract: SUSTech is a "new kid on the block" in the Chinese higher education sector. This informal talk mainly introduces the Department of Computer Science and Engineering (CSE) at SUSTech. The Department was set up in summer 2016 and now has 29 tenured and tenure track faculty members, including IEEE fellows. The talk will introduce our current faculty members and their research interests, the current research foci in the Department, the undergraduate, MSc and PhD programmes offered, and very exciting open positions for faculty members, research staff and postdocs. The compensation packages for our open positions are highly competitive with those offered in Australia, US and UK.There are also substantial support and subsidies from the Shenzhen government to outstanding candidates at all levels. 
+The talk will be highly interactive and leave ample time for discussions and Q&A.
+
+Bio-sketch of the speaker:
+Xin Yao is a Chair Professor of Computer Science at the Southern University of Science and Technology, Shenzhen, China, and a part-time Professor of Computer Science (http://www.cs.bham.ac.uk/~xin) at the University of Birmingham, UK. His major research interests include evolutionary computation, ensemble learning and search-based software engineering. His work won the 2001 IEEE Donald G. Fink Prize Paper Award; 2010, 2015 and 2017 IEEE Transactions on Evolutionary Computation Outstanding Paper Awards; 2010 BT Gordon Radley Award for Best Author of Innovation (Finalist); 2011 IEEE Transactions on Neural 
+Networks Outstanding Paper Award; and many other best paper awards. He received a prestigious Royal Society Wolfson Research Merit Award in 2012 and the IEEE CIS Evolutionary Computation Pioneer Award in 2013. He was recently selected to receive the 2020 IEEE Frank Rosenblatt Award. Previously he served as the President (2014-15) of IEEE Computational Intelligence Society and the Editor-in-Chief (2003-08) 
+of IEEE Transactions on Evolutionary Computation.
+
+
+5. 
+发帖人： 刘宇
+坐标： 澳洲，墨尔本
+I am a faculty member at Faculty of Information Technology, Monash University Clayton Campus, Australia. I am also affiliated with Monash University Centre for Data Science. I am ARC Discovery Early Career Researcher Award (DECRA) Fellow between 2019-2021 (awarded in 2018). I am actively looking for talented and motivated PhD students to work with me. Please drop me an email if you are interested.
+个人主页： http://www.cs.cmu.edu/~uqxchan1/
 
 4.
 发贴人： minhui xue
@@ -48,30 +53,35 @@ Thanh-Toan Do is currently a Lecturer (Assistant Professor) at the Department of
 个人主页： https://www.adelaide.edu.au/directory/jason.xue
 
 
-5. 
-发帖人： 刘宇
-坐标： 澳洲，墨尔本
-I am a faculty member at Faculty of Information Technology, Monash University Clayton Campus, Australia. I am also affiliated with Monash University Centre for Data Science. I am ARC Discovery Early Career Researcher Award (DECRA) Fellow between 2019-2021 (awarded in 2018). I am actively looking for talented and motivated PhD students to work with me. Please drop me an email if you are interested.
-个人主页： http://www.cs.cmu.edu/~uqxchan1/
+
+3.
+发贴人： 刘宇
+坐标： 英国，利物浦
+单位：利物浦大学，工程学院（全英第一）
+Thanh-Toan Do is currently a Lecturer (Assistant Professor) at the Department of Computer Science, University of Liverpool, UK. In 2012, he obtained Ph.D. in Computer Science at INRIA, Rennes, France, under supervision of Professors Laurent Amsaleg, Ewa Kijak, and Teddy Furon. From 2013-2016, he was a Research Fellow with Professor Ngai-Man Cheung at Singapore University of Technology and Design. From 2016-2018, he was a Research Fellow with Professor Ian Reid at Australian Centre for Robotic Vision (ACRV) and the University of Adelaide. His research interests include Computer Vision, e.g., Robotic Vision, Visual Search, Visual Question Answering, and Machine Learning, e.g., Deep Learning, Metric Learning. 
+
+招生：Potential applicants who are interested in my research areas are welcome to join my group. Self-funded PhD students and Master students are welcome. The candidates can also check this link for postgraduate research scholarships at the University of Liverpool, including country specific scholarships like Liverpool-CSC scholarships. Please feel free to contact me (thanh-toan.do@liverpool.ac.uk) for more details.
+
+个人主页： https://sites.google.com/view/thanhtoando/home
 
 
+2.
+发贴人： 刘宇
+坐标： 澳洲，阿德莱德
+单位：阿德莱德大学，计算机学院
+I am a Lecturer in the School of Computer Science, University of Adelaide. My research areas are algorithmic game theory and multiagent systems. Prior to joining the University of Adelaide, I was a Lecturer in the Economics and Computation group at the University of Liverpool, UK.
+招生： I am actively looking for PhD students.
+个人主页： https://cs.adelaide.edu.au/~mingyu/
 
 
+1.
+发贴人： 刘宇
+坐标： 澳洲，阿德莱德
+单位：阿德莱德大学，计算视觉视觉（学科排名全球top3)
+Dr. Lingqiao Liu is a Senior Lecturer and ARC DECRA Fellow in School of Computer Science, University of Adelaide, Australia. He obtained his P.h.D. from the Australian National University in 2014. He is a recipient of ARC DECRA (Discovery Early Career Researcher Award) award in 2016 and the University of Adelaide Research Fellowship award in 2016.  He has a broad research interest in machine learning, computer vision, natural language processing and music information processing.
+招生： I am continuously looking for highly motivated students with strong background in Computer Science/Engineering/Mathematics.
+个人主页：https://sites.google.com/site/lingqiaoliu83/
 
-6. 
-发帖人： 庞观松
-坐标： 中国，深圳
-You are invited to attend a seminar given by professor Xin Yao from Southern University of Science and Technology, China (SUSTech) on Wednesday, 4th December, at 10:00 AM - 11:00 AM in Seminar Room 5.57, Level 5, Ingkarni Wardli.
-
-Title: What Does the Newest Computer Science Department in China Look Like?
-
-Speaker: Professor Xin Yao
-
-Abstract: SUSTech is a "new kid on the block" in the Chinese higher education sector. This informal talk mainly introduces the Department of Computer Science and Engineering (CSE) at SUSTech. The Department was set up in summer 2016 and now has 29 tenured and tenure track faculty members, including IEEE fellows. The talk will introduce our current faculty members and their research interests, the current research foci in the Department, the undergraduate, MSc and PhD programmes offered, and very exciting open positions for faculty members, research staff and postdocs. The compensation packages for our open positions are highly competitive with those offered in Australia, US and UK.There are also substantial support and subsidies from the Shenzhen government to outstanding candidates at all levels. 
-The talk will be highly interactive and leave ample time for discussions and Q&A.
-
-
-Bio-sketch of the speaker:
-Xin Yao is a Chair Professor of Computer Science at the Southern University of Science and Technology, Shenzhen, China, and a part-time Professor of Computer Science (http://www.cs.bham.ac.uk/~xin) at the University of Birmingham, UK. His major research interests include evolutionary computation, ensemble learning and search-based software engineering. His work won the 2001 IEEE Donald G. Fink Prize Paper Award; 2010, 2015 and 2017 IEEE Transactions on Evolutionary Computation Outstanding Paper Awards; 2010 BT Gordon Radley Award for Best Author of Innovation (Finalist); 2011 IEEE Transactions on Neural 
-Networks Outstanding Paper Award; and many other best paper awards. He received a prestigious Royal Society Wolfson Research Merit Award in 2012 and the IEEE CIS Evolutionary Computation Pioneer Award in 2013. He was recently selected to receive the 2020 IEEE Frank Rosenblatt Award. Previously he served as the President (2014-15) of IEEE Computational Intelligence Society and the Editor-in-Chief (2003-08) 
-of IEEE Transactions on Evolutionary Computation.
+发帖人： 庄博涵
+坐标：澳洲，阿德莱地
+帮打个招PHD的广告。需要computer science背景，不走CSC，项目给全额奖学金，明年第一学期开始，Markus Wagner 是主导。有兴趣还可以拿和交大的joint phd，不感兴趣只拿我们阿大学位。https://cs.adelaide.edu.au/users/markus/
