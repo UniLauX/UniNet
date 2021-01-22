@@ -1,3 +1,6 @@
+#### 6. Bytedance, Shanghai, NLP, Fulltime/Intern.
+Proposed by Mr.Yunpeng Li. ASAP.
+
 
 #### 5. Bytedance, US/China, Vision/Graphics, Fulltime/Intern.
 Proposed by Dr. Jing Liu. ASAP.
