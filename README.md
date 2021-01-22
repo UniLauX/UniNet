@@ -14,7 +14,7 @@ Most of the job positions can be reached/recommended by Uni, that is why it is n
 
 If you are interested in the job opportunity, please drop me an email with your CV and interests.
 
-If you have job position avaliable and want to find some suitable candidate, send me your job description and detail.
+If you have job position avaliable and want to find some suitable candidates, send me your job description and detail.
 
 
 Reach me with Yu.Liu@roboticvision.org
