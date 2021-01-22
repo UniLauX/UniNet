@@ -71,7 +71,7 @@ posted by: qinhong jiang
 实习生不需要上下班打卡，整体工作环境比较自由，适合为了积累项目经验和学术研究的同学，为后续工作或深造打下基础。
 
 
-# 1. Alibaba Damo Research, Hangzhou, Robotics, Intern.
+## 1. Alibaba Damo Research, Hangzhou, Robotics, Intern.
 发贴人： 张方毅
 坐标： 中国， 杭州（preferred)/北京
 单位： 阿里巴巴，达摩院
