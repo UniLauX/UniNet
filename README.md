@@ -6,6 +6,7 @@ With focus: Computer Vision, Deep Learning and Robotics.
 
 PhD, Visiting positions in academia.   
 Full-time Job, Internships in Industry.
+Research topic/Co-paper.
 
 Most of the job positions can be reached/recommended by Uni, that is why it is named UniNet.
 
