@@ -42,13 +42,14 @@ To apply:
 
 - Please indicate your preferred starting time and duration
 
-# 3
+
+# 3 Sensetime, Hangzhou, Vision, Fulltime/Intern.
 商汤招聘：
 posted by: qinhong jiang
 欢迎大家来简历~感知还原，人车分析预测，cpp工程，全职实习皆可jiangqinhong@sensetime.com
 
 
-# 2
+# 2 Tecent AI Lab, Shenzhen, Vision, Intern.
 发帖人： 王应龙
 腾讯AI Lab 宋老师招实习生，有想去的同学朋友们请速发邮件报名，名额很有限！
 
@@ -69,7 +70,7 @@ posted by: qinhong jiang
 实习生不需要上下班打卡，整体工作环境比较自由，适合为了积累项目经验和学术研究的同学，为后续工作或深造打下基础。
 
 
-# 1
+# 1 Alibaba, Hangzhou, Robotics, Intern.
 发贴人： 张方毅
 坐标： 中国， 杭州（preferred)/北京
 单位： 阿里巴巴，达摩院
