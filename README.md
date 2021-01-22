@@ -1,12 +1,14 @@
 # UniNet
 
-UniNet is a social network to find job infomation, rather than a neural network.
+UniNet aim to unified friends of Uni to work together, rather than a neural network (Orginally I want to develop a unified network for detection,segmentation and tracking, but failed. lol), with the focus on the fields of Computer Vision, Deep Learning, Robotics, NLP and Graphics.
 
-With focus: Computer Vision, Deep Learning and Robotics.
+It provides three options: 
 
-PhD, Visiting positions in academia.   
-Full-time Job, Internships in Industry.
-Research topic/Co-paper.
+1. PhD, Visiting positions in academia.   
+
+2. Full-time Job, Internships in Industry.
+
+3. Research proposals /Co-paper.
 
 Most of the job positions can be reached/recommended by Uni, that is why it is named UniNet.
 
