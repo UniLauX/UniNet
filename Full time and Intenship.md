@@ -3,9 +3,7 @@
 
 
 
-
-
-Source： Kate Aldridge(QUT, email)
+# 4
 Research Internship in Robotic Vision and Graphics at the Tencent Robotics X Lab
 Tencent is an Internet-based platform company using technology to enrich the lives of Internet users and assist the digital upgrade of enterprises. Robotics X Lab was established at March 2018. Our mission is to use robot to connect the virtual world and the real world.
 Location: Shenzhen, China
@@ -44,11 +42,11 @@ To apply:
 
 - Please indicate your preferred starting time and duration
 
-
-##--------------------------------------------------------------------------------##
+# 3
 商汤招聘：
 posted by: qinhong jiang
 欢迎大家来简历~感知还原，人车分析预测，cpp工程，全职实习皆可jiangqinhong@sensetime.com
+
 
 # 2
 发帖人： 王应龙
