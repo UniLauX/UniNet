@@ -1,6 +1,6 @@
 
 # 5. Bytedance, US/China, Vision/Graphics, Fulltime/Intern.
-Proposed by Dr. Jing Liu.
+Proposed by Dr. Jing Liu. ASAP.
 
 
 
