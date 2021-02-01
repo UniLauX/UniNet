@@ -1,3 +1,7 @@
+#### 7. Baidu, Beijing, Auto-Driving, Fulltime.
+Proposed by Mr.Guo Song. ASAP.
+
+
 #### 6. Bytedance, Shanghai, NLP, Fulltime/Intern.
 Proposed by Mr.Yunpeng Li. ASAP.
 
