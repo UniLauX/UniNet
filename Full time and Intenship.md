@@ -1,3 +1,7 @@
+#### 8. Alibaba, Hangzhou, SLAM Expert, (Social Recruitment) Full time.
+Proposed by Dr. Zilong Dong. ASAP.
+
+
 #### 7. Baidu, Beijing, Auto-Driving, Fulltime.
 Proposed by Mr.Guo Song. ASAP.
 
