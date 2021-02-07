@@ -14,44 +14,8 @@ Proposed by Mr.Yunpeng Li. ASAP.
 Proposed by Dr. Jing Liu. ASAP.
 
 
-#### 4. Tecent Robotics X, Shenzhen, Robotic Vision, Intern.
-Research Internship in Robotic Vision and Graphics at the Tencent Robotics X Lab
-Tencent is an Internet-based platform company using technology to enrich the lives of Internet users and assist the digital upgrade of enterprises. Robotics X Lab was established at March 2018. Our mission is to use robot to connect the virtual world and the real world.
-Location: Shenzhen, China
-
-Duration: >= 3 months
-
-Start date: ASAP
-
-Responsibility:
-
-- Developing a VR/AR system for robotic teleoperation
-
-Key Requirements:
-
-- Experienced in Robotics Vision/Computer Vision/Computer Graphics
-
-- Experience in 3D reconstruction/SLAM/rendering is preferable
-
-- Familiar with Unity
-
-- Familiar with PCL/OpenCV
-
-- Knowledge of ROS
-
-What we can offer you:
-
--  Competitive salary
-
-- Work with state of the art robotic hardware and software
-
-- Excellent network of leading engineers and researchers
-
-To apply:
-
-- Email your CV to bidanhuang@tencent.com
-
-- Please indicate your preferred starting time and duration
+#### 4. Tecent Robotics X, Shenzhen, Robotic Vision/Graphics, Intern.
+Proposed by Dr.Bidan Huang.
 
 
 #### 3. Sensetime, Hangzhou, Vision/Auto-driving, Fulltime/Intern.
