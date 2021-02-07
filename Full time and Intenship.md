@@ -15,33 +15,16 @@ Proposed by Dr. Jing Liu. ASAP.
 
 
 #### 4. Tecent Robotics X, Shenzhen, Robotic Vision/Graphics, Intern.
-Proposed by Dr.Bidan Huang.
+Proposed by Dr.Bidan Huang, ASAP
 
 
 #### 3. Sensetime, Hangzhou, Vision/Auto-driving, Fulltime/Intern.
-posted by: qinhong jiang
+posted by: qinhong jiang, ASAP
 
 
 #### 2. Tecent AI Lab, Shenzhen, Vision, Intern.
-发帖人： 王应龙
-腾讯AI Lab 宋老师招实习生，有想去的同学朋友们请速发邮件报名，名额很有限！
-
-腾讯AI Lab计算机视觉中心招聘两名实习生，参与视觉理解感知相关项目。要求如下：
-
-1. 熟悉计算机视觉和深度学习的常见算法和工具一种(Pytorch/Tensorflow/Caffe)，具有较强的编程能力，能承担项目子模块的开发工作。
-
-2. 对图像分类有过积累，能够利用现有state-of-the-art模型进行训练和测试。
-
-3. 能够自主阅读理解主流CV方向论文。
-
-4. 有研究需求，可以视个人背景和兴趣方向进行相应指导研究。
-
-5. 工作地点为深圳，能够实习6个月或以上者优先。在读本硕博或GAP year皆可，根据个人背景确定有市场竞争力薪酬。表现优秀者，可获推荐正式员工或海外深造机会。
-
-有意者请发送简历到yibingsong@tencent.com进行联系。关于腾讯AI Lab的介绍详见 http://ai.tencent.com 。
-
-实习生不需要上下班打卡，整体工作环境比较自由，适合为了积累项目经验和学术研究的同学，为后续工作或深造打下基础。
+Proposed by Dr. Yinglong Wang, ASAP
 
 
 #### 1. Alibaba Damo Research, Hangzhou, Robotics, Intern.
-Proposed by Dr. Fangyi Zhang
+Proposed by Dr. Fangyi Zhang, ASAP
