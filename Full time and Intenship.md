@@ -80,9 +80,4 @@ posted by: qinhong jiang
 
 
 #### 1. Alibaba Damo Research, Hangzhou, Robotics, Intern.
-发贴人： 张方毅
-坐标： 中国， 杭州（preferred)/北京
-单位： 阿里巴巴，达摩院
-职位： Research Interns
-要求： 博士在读（2020年以后毕业），在机器人视觉和无人机方向有基本的研究北京，包括但不限于无人机影响识别、检测、跟踪、场景识别、视觉控制、视觉运动策略学习等。有机器人领域顶会（ICRA， IROS，RSS等）或CCF A类一作文章者更佳。
-个人主页： http://www.fangyizhang.com/
+Proposed by Dr. Fangyi Zhang
