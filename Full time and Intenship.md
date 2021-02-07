@@ -54,10 +54,8 @@ To apply:
 - Please indicate your preferred starting time and duration
 
 
-#### 3. Sensetime, Hangzhou, Vision, Fulltime/Intern.
-商汤招聘：
+#### 3. Sensetime, Hangzhou, Vision/Auto-driving, Fulltime/Intern.
 posted by: qinhong jiang
-欢迎大家来简历~感知还原，人车分析预测，cpp工程，全职实习皆可jiangqinhong@sensetime.com
 
 
 #### 2. Tecent AI Lab, Shenzhen, Vision, Intern.
