@@ -1,3 +1,7 @@
+
+#### 9. AutelRobotics, Shenzhen/Beijing, SlAM/3DReconstruction/CV/DL, Research Enginner/Expert, Full-time
+
+
 #### 8. Alibaba, Hangzhou, SLAM Expert, (Social Recruitment) Full time.
 Proposed by Dr. Zilong Dong. ASAP.
 
