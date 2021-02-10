@@ -21,4 +21,4 @@ If you have job position avaliable and want to find some suitable candidates, se
 Reach me with Yu.Liu@roboticvision.org
 
 
-Story behind UniNet: Orginally I want to develop a unified network for detection,segmentation and tracking, but failed. lol~
+Story behind UniNet: Orginally I want to develop an unified network for detection,segmentation and tracking, but failed. lol~
